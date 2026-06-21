@@ -1,2 +1,14 @@
 # livecnjcw-notes
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
